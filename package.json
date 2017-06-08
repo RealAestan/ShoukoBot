@@ -1,0 +1,15 @@
+{
+  "name": "Shouko",
+  "version": "1.0.0",
+  "description": "Simple discord bot using discord.js library",
+  "main": "app.js",
+  "dependencies": {
+    "discord.js": "^11.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RealAestan",
+  "license": "LGPL-3.0"
+}
